@@ -1,0 +1,19 @@
+{
+  "name": "back",
+  "version": "1.0.0",
+  "description": "conexion base de datos CLIENTES_GUCI",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "back": "nodemon ./main.js"
+  },
+  "author": "GEONAVSTAR",
+  "license": "ISC",
+  "dependencies": {
+    "cros": "^1.0.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mysql2": "^3.2.3"
+  }
+}
