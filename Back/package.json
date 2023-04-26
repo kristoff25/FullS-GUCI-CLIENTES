@@ -5,7 +5,8 @@
   "main": "main.js",
   "type": "module",
   "scripts": {
-    "back": "nodemon ./main.js"
+    "back": "nodemon ./main.js",
+    "start": "nodemon ./main.js"
   },
   "author": "GEONAVSTAR",
   "license": "ISC",
